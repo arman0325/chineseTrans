@@ -6,12 +6,8 @@
 package com.chinese.chinesetrans;
 
 import com.chinese.chinesetrans.dao.ReadAndCreateFile;
-import com.github.houbb.opencc4j.util.ZhTwConverterUtil;
 import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileInputStream;
-import java.io.InputStreamReader;
-
 /**
  *
  * @author arman
